@@ -8,7 +8,7 @@ DARK BLUE: #1D3557
 
 */
 body {
-    min-height: 2244px;
+    max-width: 1080px;
     margin: 0 auto;
     text-align: center;
     border: 12px solid #A8DADC;
