@@ -7,11 +7,12 @@ LIGHT BLUE: #457B9D
 DARK BLUE: #1D3557
 
 */
-
 body {
     width: 720px;
     margin: 0 auto;
     text-align: center;
+    border: 6px solid #A8DADC;
+    border-radius: 16px;
 }
 
 #hero {
